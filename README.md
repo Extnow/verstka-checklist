@@ -293,6 +293,7 @@
 > * 🛠 [GooglePagespeed](https://developers.google.com/speed/pagespeed/insights/)
 > * 🛠 [SpeedTest](http://pr-cy.ru/speed_test/)
 
+**[⬆ наверх](#Содержание)**
 
 [low_img]: https://front-end-checklist.now.sh/low.svg
 [medium_img]: https://front-end-checklist.now.sh/medium.svg

@@ -1,9 +1,7 @@
-[![Front-End Checklist Logo](https://github.com/thedaviddias/Front-End-Checklist/blob/master/src/img/banners/front-end-checklist-banner-light.jpg?raw=true)](https://frontendchecklist.io)
-
-<h2 align="center"><a href="http://frontendchecklist.io">Front-End Checklist</a></h2>
+<h2 align="center">Verstka-End Checklist</a></h2>
 
 <p align="center">
-  <em>The Front-End Checklist это исчерпывающий список элементов сайта или HTML страницы, которые должны быть проверены перед выпуском в production</em>
+  <em>Взято на основе https://frontendchecklist.io/</em>
 </p>
 
 ## Содержание

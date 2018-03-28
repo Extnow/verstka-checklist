@@ -1,4 +1,4 @@
-<h2 align="center">Verstka-End Checklist</a></h2>
+<h2 align="center">Verstka Checklist</a></h2>
 
 <p align="center">
   <em>Взято на основе https://frontendchecklist.io/</em>

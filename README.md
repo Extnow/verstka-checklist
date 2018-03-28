@@ -218,7 +218,7 @@
 
 ### Лучшие практики
 
-* [ ] **Оптимизация:** ![High][high_img] Все картинки оптимизированы для рендеринга в браузере. Формат WebP может быть использован для критических страниц, например домашняя страница (Homepage).
+* [ ] **Оптимизация:** ![High][high_img] Все картинки оптимизированы для рендеринга в браузере.
 
 > * 🛠 [Imagemin](https://github.com/imagemin/imagemin)
 > * 🛠 Используйте [ImageOptim](https://imageoptim.com/) для бесплатной оптимизации картинок.
@@ -239,6 +239,10 @@
 
 > * 📖 [Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts/)
 
+* [ ] **Фотографии** ![Medium][medium_img] Добавлены и оптимизированы в формате .jpg
+* [ ] **Картинки с прозрачностью и(или) текстом** ![Medium][medium_img] Добавлены и оптимизированы в формате .png
+* [ ] **Иконки** ![Medium][medium_img] По возможности добавлены и оптимизированы в формате .svg
+
 **[⬆ наверх](#Содержание)**
 
 ---
@@ -253,15 +257,6 @@
 * [ ] **Заголовки:** ![High][high_img] Заголовки должны идти в правильном порядке (от H1 к H6).
 
 > * 📹 [Why headings and landmarks are so important -- A11ycasts #18](https://www.youtube.com/watch?v=vAAzdi1xuUY&index=9&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
-
-#### ARIA landmarks
-
-- [ ] **Role banner:** ![High][high_img] У `<header>` проставлен `role="banner"`.
-- [ ] **Role navigation:** ![High][high_img] у `<nav>` проставлен `role="navigation"`.
-- [ ] **Role main:** ![High][high_img] У `<main>` проставлен `role="main"`.
-
-> * 📖 [Using ARIA landmarks to identify regions of a page](https://www.w3.org/WAI/GL/wiki/Using_ARIA_landmarks_to_identify_regions_of_a_page)
-> * 📖 [ARIA roles categorization](https://www.w3.org/TR/wai-aria/roles#roles_categorization)
 
 ### Семантика
 

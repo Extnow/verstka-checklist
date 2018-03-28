@@ -1,7 +1,7 @@
 <h2 align="center">Verstka Checklist</a></h2>
 
 <p align="center">
-  <em>Взято на основе https://frontendchecklist.io/</em>
+  <em>Взято на основе https://frontendchecklist.io/ и адаптировано под себя</em>
 </p>
 
 ## Содержание
